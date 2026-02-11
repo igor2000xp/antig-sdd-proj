@@ -42,8 +42,19 @@
     "@angular/build": "^21.0.5",
     "@angular/cli": "^21.0.5",
     "@angular/compiler-cli": "^21.0.0",
+    "@badeball/cypress-cucumber-preprocessor": "^24.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.8",
+    "@eslint/js": "^10.0.1",
+    "@vitest/coverage-v8": "^4.0.18",
+    "angular-eslint": "^21.2.0",
+    "cypress": "^15.10.0",
+    "esbuild": "^0.27.3",
+    "eslint": "^9.19.0",
+    "husky": "^9.1.7",
     "jsdom": "^27.1.0",
+    "prettier": "^3.8.1",
     "typescript": "~5.9.2",
+    "typescript-eslint": "^8.55.0",
     "vitest": "^4.0.8"
   }
 }
