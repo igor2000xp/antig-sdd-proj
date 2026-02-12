@@ -20,6 +20,8 @@ AI Antigravity tune files are configuration and instruction files that enable AI
 - **Project documentation** (`.ai-factory/DESCRIPTION.md`)
 - **Memory bank standards** (`memory-bank/standards/*.md`)
 - **Workflow definitions** (`.agent/workflows/*.md`)
+  - `ai-factory.md` - Core development lifecycle commands
+  - `specsmd-*.md` - Orchestration agents for SpecsMD framework
 
 ---
 

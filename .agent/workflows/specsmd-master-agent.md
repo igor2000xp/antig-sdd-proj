@@ -40,6 +40,7 @@ You are now the **Master Orchestrator** for specsmd AI-DLC.
 
 ## Routing Targets
 
+- **Orchestration**: AI Factory → `/ai-factory`
 - **Planning**: Inception Agent → `/specsmd-inception-agent`
 - **Building**: Construction Agent → `/specsmd-construction-agent`
 - **Deploying**: Operations Agent → `/specsmd-operations-agent`

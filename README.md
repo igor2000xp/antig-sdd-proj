@@ -54,6 +54,17 @@ ng e2e
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
+## AI Factory Development
+
+This project is enhanced with **AI Factory**, providing a suite of slash commands to automate the development lifecycle:
+
+- `/ai-factory.feature` - Start a new feature with branch and plan
+- `/ai-factory.fix` - Fast-track bug fixes with logging
+- `/ai-factory.implement` - Execute implementation tasks sequentially
+- `/ai-factory.commit` - Generate conventional commit messages
+
+For more details, see [AGENTS.md](./AGENTS.md) and the [.agent/workflows/ai-factory.md](./.agent/workflows/ai-factory.md) workflow.
+
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
