@@ -15,7 +15,7 @@ Created: 2026-02-12
 ## Tasks
 
 ### Phase 1: Configuration
-- [ ] Task 1: Stage and commit AI Factory configuration files
+- [x] Task 1: Stage and commit AI Factory configuration files
   Description: Stage `.ai-factory.json` and the `.ai-factory/` directory. Then commit with a descriptive message.
   Files: `.ai-factory.json`, `.ai-factory/`
   LOGGING REQUIREMENTS:
@@ -24,7 +24,7 @@ Created: 2026-02-12
 <!-- 🔄 Commit checkpoint: task 1 -->
 
 ### Phase 2: Skills
-- [ ] Task 2: Stage and commit core AI skills
+- [x] Task 2: Stage and commit core AI skills
   Description: Stage the entire `.ai/` directory containing the skill definitions. Then commit.
   Files: `.ai/`
   LOGGING REQUIREMENTS:
@@ -33,7 +33,7 @@ Created: 2026-02-12
 <!-- 🔄 Commit checkpoint: task 2 -->
 
 ### Phase 3: Documentation
-- [ ] Task 3: Stage and commit AI documentation
+- [x] Task 3: Stage and commit AI documentation
   Description: Stage `AGENTS.md`, which contains the comprehensive guide for AI agents. Then commit.
   Files: `AGENTS.md`
   LOGGING REQUIREMENTS:
