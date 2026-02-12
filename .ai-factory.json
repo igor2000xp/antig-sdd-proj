@@ -1,0 +1,29 @@
+{
+  "version": "1.4.0",
+  "agent": "universal",
+  "skillsDir": ".ai/skills",
+  "installedSkills": [
+    "ai-factory",
+    "angular-ecommerce",
+    "angular-vitest",
+    "architecture",
+    "best-practices",
+    "commit",
+    "cypress-cucumber-bdd",
+    "deploy",
+    "evolve",
+    "feature",
+    "fix",
+    "implement",
+    "improve",
+    "review",
+    "security-checklist",
+    "skill-generator",
+    "task"
+  ],
+  "mcp": {
+    "github": true,
+    "filesystem": true,
+    "postgres": false
+  }
+}
